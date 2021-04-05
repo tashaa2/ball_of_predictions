@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.picture {
+  background-image: url(https://lh3.googleusercontent.com/-0yII8qY6MzMibm92ZCrh2Bn8eHTdzjYCgZM-5Xd5JEQiEtcJ_WsCaqZi7y1kcowT6w);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 40%;
+  height: 70%px; 
+  margin-left: 20%;   
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div {
+  width: 30%;
+  height: 15%;  
+  color: white;
+}
+
+.sydba {
+  display: flex;
+  flex-direction: column;
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; 
+  width: 50%;
+  height: 500px;
+}
+
+textarea {
+  height: 350px;
+  color: black;
+}
